@@ -4,12 +4,15 @@ body {
     color: #001e3d;
 }
 
+#adminmenu {
+    margin: 0px 0;
+}
+
 #adminmenu .networkvision-logo {
     background-image: url(../networkvision-dashicon.svg);
     background-repeat: no-repeat;
     width: 160px;
-    height: 35px;
-    
+    height: 40px;
     text-align: center;
     display: block;
     background-position: center;
@@ -58,7 +61,8 @@ background: #2e669e;
 	align-items: center;
 }
 
-#wpadminbar ul#wp-admin-bar-root-default>li {
+#adminmenu #toplevel_page_credits div.wp-menu-name {
+    padding:0;
 }
 
 #wpadminbar .ab-top-secondary .menupop .ab-sub-wrapper {

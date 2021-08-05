@@ -4,9 +4,9 @@
 Plugin Name: Network Vision Admin Theme
 Plugin URI: http://www.networkvision.it/
 Description: A clean, simplified WordPress Admin theme
-Author: Daniele Pani, Gabriele Piccinnu
+Author: Gabriele Piccinnu
 Version: 1.0
-Author URI: http://www.networkvision.it/
+Author URI: http://gabrielepiccinnu.it/
 */
 
 // exit if accessed directly
@@ -39,6 +39,8 @@ function register_networkvision_link(){
 }
 
 function wpsites_custom_menu_link(){
-    wp_redirect( 'https://www.networkvision.it/', 301 ); 
+    wp_redirect( 'https://www.networkvision.it', 301 ); 
 	exit;
 }
+
+?>
