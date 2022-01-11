@@ -5,8 +5,8 @@
 * Plugin URI: http://www.networkvision.it/
 * Description: A clean, simplified WordPress Admin theme
 * Author: Gabriele Piccinnu
-* Version: 1.0
-* Author URI: http://gabrielepiccinnu.it/
+* Version: 1.1
+* Author URI: http://gabrielepiccinnu.com/
 * Git URI: https://github.com/gabrielepiccinnu/networkvision-admin-theme
 * GitHub Plugin URI: https://github.com/gabrielepiccinnu/networkvision-admin-theme
 * GitHub Branch: main
